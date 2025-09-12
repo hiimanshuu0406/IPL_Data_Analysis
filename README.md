@@ -5,7 +5,7 @@ This project analyzes IPL match and ball-by-ball data from 2008–2017 to uncove
 
 **📈 Dasboard**
 
-
+<img width="1400" height="700" alt="Image" src="https://github.com/user-attachments/assets/12705ada-690c-4c13-88a9-7ad432584fa0" />
 
 **❓ Business Problem**
 1. The objective of this project is to derive actionable insights from historical IPL data that can help:
