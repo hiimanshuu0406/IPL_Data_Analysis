@@ -3,6 +3,10 @@
 
 This project analyzes IPL match and ball-by-ball data from 2008–2017 to uncover patterns, player performances, and match outcomes. The analysis was carried out in Power BI by creating calculated columns, DAX measures, and interactive dashboards. Key areas explored include top run-scorers, wicket-takers, boundary hitters, toss vs. match outcomes, and season-wise performance trends.
 
+**📈 Dasboard**
+
+
+
 **❓ Business Problem**
 1. The objective of this project is to derive actionable insights from historical IPL data that can help:
 2. Understand player and team performances over different seasons.
