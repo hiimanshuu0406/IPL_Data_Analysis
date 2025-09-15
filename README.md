@@ -29,4 +29,3 @@ This project analyzes IPL match and ball-by-ball data from 2008–2017 to uncove
 1. Identified top run-scorers, wicket-takers, and boundary hitters across seasons.
 2. Toss outcomes showed a measurable influence on match results.
 3. Team management can use boundary-hitting and wicket-taking trends to refine player strategies.
-4. Fans and analysts gain a clear, visual story of how IPL evolved between 2008–2017.
